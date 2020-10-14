@@ -1,1 +1,1 @@
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=shota1995m&layout=compact)
